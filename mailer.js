@@ -1,3 +1,4 @@
+//https://github.com/nodemailer/nodemailer/issues/350
 var nodemailer = require('nodemailer');
 var smtpTransport = require('nodemailer-smtp-transport');
 
